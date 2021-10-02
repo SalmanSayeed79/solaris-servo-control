@@ -32,7 +32,7 @@ The Arduino module works in three steps -
 * Solaris web app repo : [Github repo for Solaris web app](https://github.com/SalmanSayeed79/Solaris-BD)
 * Solaris Mobile app : [Apk drive link](https://drive.google.com/file/d/170HMrigXFpZwzHW3F4FIAJt-gC9HfU5Z/view?usp=sharing)
 * Solaris Mobile app repo: [Github repo for solaris mobile app](https://github.com/zarifikram/SOLARIS)
-* Solaris IOT module : [Github repo for Solaris IOT code](https://github.com/pptx704/solaris-servo-control)
+* Solaris Backend Repo : [Github repo for Solaris Backend](https://github.com/pptx704/solaris-backend)
 
 ### Reference
 ---
