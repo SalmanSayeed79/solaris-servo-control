@@ -1,6 +1,6 @@
 
-# Solaris Backend
-[![244326655-332221555363473-4636031536199997176-n.jpg](https://i.postimg.cc/pLmcczpd/244326655-332221555363473-4636031536199997176-n.jpg)](https://postimg.cc/Mn8Yvc0k)
+# Solaris IOT Device
+[![Cover.png](https://i.postimg.cc/j2CPY2Sh/Cover.png)](https://postimg.cc/QKGHpX5B)
 
 The Arduino source code of our Solaris Sun Tracker. This IOT device fetches the optimum tilt angle from Solaris data and moves the servo motor according to that.
 
