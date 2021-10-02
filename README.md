@@ -18,6 +18,7 @@ Although Solar Panels that track the sun already exists, there are some challeng
 We have used a few modules to create our Solaris Arduino demonstration. They are listed below:
 1. Servo library
 2. ESP8266 library
+3. WiFiClientSecure library
 ### Working Method
 ---
 The Arduino module works in three steps -
