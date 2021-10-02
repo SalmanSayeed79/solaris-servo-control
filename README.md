@@ -20,10 +20,11 @@ We have used a few modules to create our Solaris Arduino demonstration. They are
 2. ESP8266 library
 ### Working Method
 ---
-The Arduino module works in two steps -
+The Arduino module works in three steps -
 
 1. Arduino calls api from Solaris Backend using the ESP8266 library. And extracts the optimum tilt angle from that.
-2. The Servo module then moves the servo motor towards that tilt angle and makes the Arduino a perfect demonstration of Solaris perfection!
+2. The Servo module then moves the servo motor towards that tilt angle and tracks the sun.
+3. Lastly, the Arduino waits for 2 hours to repeat task 1 and 2, and makes the Arduino a perfect demonstration of Solaris perfection!
 
 ### Resources
 ---
